@@ -1,0 +1,6 @@
+C:/Users/Aaron Payne/Documents/Qt/Assignments/Assignment1/build-Chapter2-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/Chapter2.dir
+C:/Users/Aaron Payne/Documents/Qt/Assignments/Assignment1/build-Chapter2-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Aaron Payne/Documents/Qt/Assignments/Assignment1/build-Chapter2-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Aaron Payne/Documents/Qt/Assignments/Assignment1/build-Chapter2-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Aaron Payne/Documents/Qt/Assignments/Assignment1/build-Chapter2-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Aaron Payne/Documents/Qt/Assignments/Assignment1/build-Chapter2-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/install/local.dir
