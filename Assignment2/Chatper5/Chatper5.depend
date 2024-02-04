@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706895605 source:c:\users\aaron payne\documents\lakeland\assignment2\chatper5\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
